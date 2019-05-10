@@ -1,0 +1,17 @@
+{
+  "name": "wangct-test-a",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "start": "wangct-dva",
+    "publish": "npm publish --registry https://registry.npmjs.org/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wangct-server-util": "^1.0.17",
+    "wangct-util": "1.0.10"
+  }
+}
